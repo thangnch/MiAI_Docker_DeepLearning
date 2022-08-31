@@ -1,7 +1,7 @@
 # MiAI_Docker_DeepLearning
 Demo of build docker image for Deep Learning application
 
-Video link: https://youtu.be/nAwW11yMjpQ
+Video link: https://youtu.be/TOCxu0jh8ic
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
